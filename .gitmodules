@@ -2,3 +2,8 @@
 	path = acs_record_currency_rate
 	url = git@github.com:wonderbrands/acs_record_currency_rate.git
 	branch = 15.0
+
+[submodule "yuju"]
+	path = yuju
+	url = git@github.com:wonderbrands/yuju.git
+	branch = 15.0
