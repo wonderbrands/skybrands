@@ -1,0 +1,4 @@
+[submodule "supplier_extension"]
+	path = supplier_extension
+	url = git@github.com:wonderbrands/supplier_extension.git
+	branch = master
