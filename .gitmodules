@@ -2,3 +2,8 @@
 	path = q_l10n_mx_autoinvoice
 	url = git@github.com:wonderbrands/q_l10n_mx_autoinvoice.git
 	branch = 16.0
+
+[submodule "supplier_extension"]
+	path = supplier_extension
+	url = git@github.com:wonderbrands/supplier_extension.git
+	branch = master
