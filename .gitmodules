@@ -2,3 +2,8 @@
 	path = supplier_extension
 	url = git@github.com:wonderbrands/supplier_extension.git
 	branch = master
+
+[submodule "currency_rate"]
+	path = currency_rate
+	url = git@github.com:wonderbrands/currency_rate.git
+	branch = 15.0
